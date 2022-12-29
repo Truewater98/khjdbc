@@ -44,8 +44,8 @@ public class Student {
 	public String getStudentPwd() {
 		return studentPwd;
 	}
-	public void setStudentPwd(String stdentPwd) {
-		this.studentPwd = stdentPwd;
+	public void setStudentPwd(String studentPwd) {
+		this.studentPwd = studentPwd;
 	}
 	public String getGender() {
 		return gender;
